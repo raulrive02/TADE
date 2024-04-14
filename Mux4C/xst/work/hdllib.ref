@@ -1,0 +1,5 @@
+AR mux_4c arch /home/ise/Tade_VB/Mux4C/Mux_4C.vhd sub00/vhpl02 1713074931
+AR multiplexers_1 archi /home/ise/Tade_VB/Mux4C/Mux4C.vhd sub00/vhpl04 1713074545
+EN multiplexers_1 NULL /home/ise/Tade_VB/Mux4C/Mux4C.vhd sub00/vhpl03 1713074544
+EN mux_4c NULL /home/ise/Tade_VB/Mux4C/Mux_4C.vhd sub00/vhpl00 1713074930
+AR mux_4c behavioral /home/ise/Tade_VB/Mux4C/Mux_4C.vhd sub00/vhpl01 1713074157

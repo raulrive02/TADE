@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Mux4C.vhd -prj Mux4C -o multiplexers_1.spl -module multiplexers_1 -template /opt/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e multiplexers_1.spl /home/ise/Tade_VB/Mux4C/multiplexers_1.sym 

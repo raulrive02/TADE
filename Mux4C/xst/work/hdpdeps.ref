@@ -1,0 +1,11 @@
+V3 6
+FL /home/ise/Tade_VB/Mux4C/Mux4C.vhd 2024/04/14.06:13:26 P.20131013
+EN work/multiplexers_1 1713074544 FL /home/ise/Tade_VB/Mux4C/Mux4C.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/multiplexers_1/archi 1713074545 \
+      FL /home/ise/Tade_VB/Mux4C/Mux4C.vhd EN work/multiplexers_1 1713074544
+FL /home/ise/Tade_VB/Mux4C/Mux_4C.vhd 2024/04/14.06:19:13 P.20131013
+EN work/Mux_4C 1713074930 FL /home/ise/Tade_VB/Mux4C/Mux_4C.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Mux_4C/Arch 1713074931 \
+      FL /home/ise/Tade_VB/Mux4C/Mux_4C.vhd EN work/Mux_4C 1713074930
