@@ -1,0 +1,40 @@
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+netgen -intstyle ise -ar Structure -tm ejemplo1and -w -dir netgen/synthesis -ofmt vhdl -sim ejemplo1and.ngc ejemplo1and_synthesis.vhd 
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+netgen -intstyle ise -ar Structure -tm ejemplo1and -w -dir netgen/synthesis -ofmt vhdl -sim ejemplo1and.ngc ejemplo1and_synthesis.vhd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+xst -intstyle ise -ifn "/home/ise/Tade_VB/AND/ejemplo1and.xst" -ofn "/home/ise/Tade_VB/AND/ejemplo1and.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc ejemplo1and.ucf -p xc3s1600e-fg320-4 ejemplo1and.ngc ejemplo1and.ngd  
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+map -intstyle ise -p xc3s1600e-fg320-4 -cm area -ir off -pr off -c 100 -o ejemplo1and_map.ncd ejemplo1and.ngd ejemplo1and.pcf 
+par -w -intstyle ise -ol high -t 1 ejemplo1and_map.ncd ejemplo1and.ncd ejemplo1and.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml ejemplo1and.twx ejemplo1and.ncd -o ejemplo1and.twr ejemplo1and.pcf -ucf ejemplo1and.ucf 
+bitgen -intstyle ise -f ejemplo1and.ut ejemplo1and.ncd 

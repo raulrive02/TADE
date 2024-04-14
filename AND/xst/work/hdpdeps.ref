@@ -1,0 +1,6 @@
+V3 4
+FL /home/ise/Tade_VB/AND/ejemplo1and.vhd 2024/02/28.08:33:40 P.20131013
+EN work/ejemplo1and 1709109264 FL /home/ise/Tade_VB/AND/ejemplo1and.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ejemplo1and/arche 1709109265 \
+      FL /home/ise/Tade_VB/AND/ejemplo1and.vhd EN work/ejemplo1and 1709109264
