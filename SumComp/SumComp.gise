@@ -99,7 +99,9 @@
     <transform xil_pn:end_ts="1713150144" xil_pn:in_ck="3692779519144" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="721766804070859559" xil_pn:start_ts="1713150099">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
       <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputChanged"/>
       <status xil_pn:value="OutputChanged"/>
       <outfile xil_pn:name=".lso"/>
       <outfile xil_pn:name="SumC.lso"/>
@@ -118,49 +120,44 @@
     <transform xil_pn:end_ts="1713150457" xil_pn:in_ck="121861799829300" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-6395434706588564975" xil_pn:start_ts="1713150457">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1713150490" xil_pn:in_ck="7623548137998296946" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="753784928589951875" xil_pn:start_ts="1713150457">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="SumC.bld"/>
-      <outfile xil_pn:name="SumC.ngd"/>
-      <outfile xil_pn:name="SumC_ngdbuild.xrpt"/>
-      <outfile xil_pn:name="_ngo"/>
-      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1713150521" xil_pn:in_ck="7623594549482698899" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="6904161257216636093" xil_pn:start_ts="1713150490">
       <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="SumC.pcf"/>
-      <outfile xil_pn:name="SumC_map.map"/>
-      <outfile xil_pn:name="SumC_map.mrp"/>
-      <outfile xil_pn:name="SumC_map.ncd"/>
-      <outfile xil_pn:name="SumC_map.ngm"/>
-      <outfile xil_pn:name="SumC_map.xrpt"/>
-      <outfile xil_pn:name="SumC_summary.xml"/>
-      <outfile xil_pn:name="SumC_usage.xml"/>
-      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1713150685" xil_pn:in_ck="-4509603608165700788" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-1229177303592316936" xil_pn:start_ts="1713150535">
       <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="SumC.ncd"/>
-      <outfile xil_pn:name="SumC.pad"/>
-      <outfile xil_pn:name="SumC.par"/>
-      <outfile xil_pn:name="SumC.ptwx"/>
-      <outfile xil_pn:name="SumC.unroutes"/>
-      <outfile xil_pn:name="SumC.xpi"/>
-      <outfile xil_pn:name="SumC_pad.csv"/>
-      <outfile xil_pn:name="SumC_pad.txt"/>
-      <outfile xil_pn:name="SumC_par.xrpt"/>
-      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
     <transform xil_pn:end_ts="1713150685" xil_pn:in_ck="7617468233541641103" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1713150666">
       <status xil_pn:value="SuccessfullyRun"/>
-      <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="SumC.twr"/>
-      <outfile xil_pn:name="SumC.twx"/>
-      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <status xil_pn:value="NotReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
     </transform>
   </transforms>
 

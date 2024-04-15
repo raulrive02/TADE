@@ -1,5 +1,0 @@
-set -tmpdir "/home/ise/Tade_VB/Mux4C/xst/projnav.tmp"
-set -xsthdpdir "/home/ise/Tade_VB/Mux4C/xst"
-elaborate
--ifn Mux4C.prj
--ifmt mixed
