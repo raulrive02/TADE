@@ -7,16 +7,16 @@ USE IEEE.STD_LOGIC_UNSIGNED.ALL;
 
 
 entity SumC is
-    Port ( A : in  STD_LOGIC;
-           B : in  STD_LOGIC;
-           Sum : out  STD_LOGIC;
-			  Cin : in Std_logic;
-           Cout : out  STD_LOGIC);
+    Port ( A : in  STD_LOGIC_VECTOR (3 downto 0);
+           B : in  STD_LOGIC_VECTOR (3 downto 0);
+           Sum : out  STD_LOGIC_VECTOR (3 downto O);
+	   Cin : in Std_logic_VECtor (3 downto 0);
+           Cout : out  STD_LOGIC_VECTOR (3 downto 0));
 end SumC;
 
 architecture Arch of SumC is
 
-signal X,Y,Z : std_logic := '0'; 
+signal X,Y,Z : std_logic_vector (3 downto 0) := "0000"; 
 
 begin
 
