@@ -1,0 +1,6 @@
+V3 3
+FL /home/ise/Tade_VB/SumComp/SumC.vhd 2024/04/15.03:01:22 P.20131013
+EN work/SumC 1713150114 FL /home/ise/Tade_VB/SumComp/SumC.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/SumC/Arch 1713150115 \
+      FL /home/ise/Tade_VB/SumComp/SumC.vhd EN work/SumC 1713150114
